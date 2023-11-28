@@ -168,7 +168,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         appBarTheme: const AppBarTheme(
-            color: Colors.white,
+            color: Colors.blue,
             elevation: 0,
             iconTheme: IconThemeData(color: Colors.white)),
         textSelectionTheme: const TextSelectionThemeData(
